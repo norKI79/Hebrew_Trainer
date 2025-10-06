@@ -1,0 +1,62 @@
+לאכול	to eat
+לשתות	to drink
+ללכת	to go
+לרוץ	to run
+לקפוץ	to jump
+לשבת	to sit
+לעמוד	to stand
+לישון	to sleep
+להתעורר	to wake up
+לעבוד	to work
+לדבר	to speak
+לכתוב	to write
+לקרוא	to read
+לראות	to see
+לשמוע	to hear
+לאהוב	to love
+לשנוא	to hate
+לחשוב	to think
+להבין	to understand
+לעשות	to do
+להיות	to be
+לרצות	to want
+לקנות	to buy
+למכור	to sell
+לשלם	to pay
+לשחק	to play
+לבשל	to cook
+לנקות	to clean
+לסדר	to arrange
+לסיים	to finish
+להתחיל	to start
+לפתוח	to open
+לסגור	to close
+לנסוע	to travel
+להישאר	to stay
+להתראות	to meet
+לשכוח	to forget
+לזכור	to remember
+להרגיש	to feel
+להיות מסוגל	to be able
+להצליח	to succeed
+להיכנס	to enter
+לצאת	to exit
+לעלות	to rise
+לרדת	to descend
+לשמור	to keep
+להחזיר	to return
+לשלוח	to send
+לקבל	to receive
+לתת	to give
+לירות	to shoot
+להסתתר	to hide
+לתקוף	to attack
+להגן	to defend
+לסייר	to patrol
+לקבל פקודה	to receive an order
+לשלוח כוחות	to deploy troops
+לשחרר	 to release
+לקחת שבוי	to take a prisoner
+לצאת לקרב	to go into combat
+להתאמן	to train
+לקבל ציוד	to receive equipment

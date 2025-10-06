@@ -1,0 +1,62 @@
+לאכול	אני אוהב לאכול לחם	 I like to eat bread
+לשתות	אני שותה מים כל בוקר	 I drink water every morning
+ללכת	אני הולך לבית הספר	 I go to school
+לרוץ	אני רץ בפארק כל יום	 I run in the park every day
+לקפוץ	הילד קופץ מעל המדרכה	 The child jumps over the curb
+לשבת	אני יושב בכיתה	 I sit in class
+לעמוד	אנחנו עומדים בתור	 We stand in line
+לישון	אני ישן שמונה שעות בלילה	 I sleep eight hours at night
+להתעורר	אני מתעורר בשעה שבע	 I wake up at seven o'clock
+לעבוד	אני עובד במשרד	 I work in an office
+לדבר	אנחנו מדברים עברית	 We speak Hebrew
+לכתוב	אני כותב מכתב	 I write a letter
+לקרוא	אני קורא ספר טוב	 I read a good book
+לראות	אני רואה ציפור בגינה	 I see a bird in the garden
+לשמוע	אני שומע מוזיקה	 I hear music
+לאהוב	אני אוהב את הכלב שלי	 I love my dog
+לשנוא	אני שונא גשם	 I hate rain
+לחשוב	אני חושב על העבודה שלי	 I think about my work
+להבין	אני מבין את השיעור	 I understand the lesson
+לעשות	אני עושה שיעורי בית	 I do homework
+להיות	אני רוצה להיות רופא	 I want to be a doctor
+לרצות	אני רוצה ללמוד ספרדית	 I want to learn Spanish
+לקנות	אני קונה לחם מהחנות	 I buy bread from the store
+למכור	החנות מוכרת בגדים	 The store sells clothes
+לשלם	אני משלם את החשבון	 I pay the bill
+לשחק	אני משחק כדורגל	 I play football
+לבשל	אני מבשל ארוחת ערב	 I cook dinner
+לנקות	אני מנקה את החדר שלי	 I clean my room
+לסדר	אני מסדר את השולחן	 I arrange the table
+לסיים	אני מסיים לקרוא ספר	 I finish reading a book
+להתחיל	השיעור מתחיל עכשיו	 The lesson starts now
+לפתוח	אני פותח את הדלת	 I open the door
+לסגור	אני סוגר את החלון	 I close the window
+לנסוע	אני נוסע ברכבת	 I travel by train
+להישאר	אני נשאר בבית	 I stay at home
+להתראות	אני מתראה עם חבר מחר	 I will meet a friend tomorrow
+לשכוח	אני שוכח את המפתחות שלי	 I forget my keys
+לזכור	אני זוכר את השיר הזה	 I remember this song
+להרגיש	אני מרגיש טוב היום	 I feel good today
+להיות מסוגל	אני מסוגל לסיים את העבודה	 I am able to finish the work
+להצליח	אני מצליח במבחן	 I succeed in the test
+להיכנס	אני נכנס לחדר	 I enter the room
+לצאת	אני יוצא מהבית	 I exit the house
+לעלות	אני עולה על ההר	 I climb the mountain
+לרדת	אני יורד במדרגות	 I descend the stairs
+לשמור	אני שומר על החוקים	 I keep the rules
+להחזיר	אני מחזיר את הספר לספרייה	 I return the book to the library
+לשלוח	אני שולח מכתב לחבר	 I send a letter to a friend
+לקבל	אני מקבל מתנה	 I receive a gift
+לתת	אני נותן עזרה	 I give help
+לירות	החייל יורה במטרה	 The soldier shoots at the target
+להסתתר	החייל מסתתר מאחורי קיר	 The soldier hides behind a wall
+לתקוף	הצבא תוקף את הבסיס	 The army attacks the base
+להגן	אנחנו מגנים על הכפר	 We defend the village
+לסייר	היחידה סיירה באזור	 The unit patrolled the area
+לקבל פקודה	אני מקבל פקודה מהמפקד	 I receive an order from the commander
+לשלוח כוחות	המפקד שולח כוחות לקרב	 The commander deploys troops into battle
+לשחרר	אנחנו משחררים את השבויים	 We release the prisoners
+לקחת שבוי	החייל לקח שבוי	 The soldier took a prisoner
+לצאת לקרב	החיילים יוצאים לקרב	 The soldiers go into combat
+להתאמן	אני מתאמן כל יום	 I train every day
+לקבל ציוד	אנחנו מקבלים ציוד חדש	 We receive new equipment
